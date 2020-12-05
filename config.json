@@ -1,12 +1,12 @@
 {
   "config" : {
-    "apiKey": "AIzaSyCfSSnLmj5KcoD6B4fgsgbiSsj_x3-o9Bc",
-    "authDomain": "hri-bottuber.firebaseapp.com",
-    "databaseURL": "https://hri-bottuber.firebaseio.com",
-    "storageBucket": "hri-bottuber.appspot.com"
-  },
+        "apiKey": "<your-api-key>",
+        "authDomain": "<your-auth-domain>",
+        "databaseURL": "<your-database-url>",
+        "storageBucket": "<your-storage-bucket-url>"
+    },
 
-  "firebaseurl": "https://hri-bottuber.firebaseio.com/",
+  "firebaseurl": "your-database-url",
 
   "arduinoport": "/dev/cu.usbmodem146401",
 
