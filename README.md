@@ -187,5 +187,5 @@ For Python threading:
 
 https://blog.miguelgrinberg.com/post/how-to-make-python-wait
 
-[1]: ../main/aruco-makers/aruco-130.svg
-[2]: ../main/aruco-makers/aruco-140.svg
+[1]: ../main/aruco-markers/aruco-130.svg
+[2]: ../main/aruco-markers/aruco-140.svg
