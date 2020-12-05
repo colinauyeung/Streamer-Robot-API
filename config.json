@@ -1,0 +1,14 @@
+{
+  "config" : {
+    "apiKey": "AIzaSyCfSSnLmj5KcoD6B4fgsgbiSsj_x3-o9Bc",
+    "authDomain": "hri-bottuber.firebaseapp.com",
+    "databaseURL": "https://hri-bottuber.firebaseio.com",
+    "storageBucket": "hri-bottuber.appspot.com"
+  },
+
+  "firebaseurl": "https://hri-bottuber.firebaseio.com/",
+
+  "arduinoport": "/dev/cu.usbmodem146401",
+
+  "camera_number": 0
+}

@@ -1,0 +1,51 @@
+{
+  "controldpad" : {
+    "circle" : false,
+    "square" : false,
+    "triangle" : false,
+    "x" : false
+  },
+  "controlhat" : {
+    "x" : 0,
+    "y" : 0
+  },
+  "controlheld" : {
+    "direct" : 0,
+    "left" : 0,
+    "right" : 0
+  },
+  "controlvis" : {
+    "x" : "0",
+    "y" : "0"
+  },
+  "handvis" : {
+    "ID130" : {
+      "x" : 0,
+      "y" : 0
+    },
+    "ID140" : {
+      "x" : 0,
+      "y" : 0
+    }
+  },
+  "joystick" : [ 0, 0, -0.0, 0, 0 ],
+  "mousepos" : {
+    "x" : 0,
+    "y" : 0
+  },
+  "ping" : {
+    "controller" : {
+      "ping" : "ping"
+    },
+    "mouse" : {
+      "ping" : "ping"
+    },
+    "vis" : {
+      "ping" : "ping"
+    },
+    "visaruco" : {
+      "ping" : "ping"
+    }
+  },
+  "pollrate" : 0.5
+}
