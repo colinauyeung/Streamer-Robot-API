@@ -68,7 +68,7 @@ then upload [base_firebase.json](../main/base_firebase.json).
 ### Vision Set up
 Within this code base there are two vision scripts avaliable, we'll will set up both here
 1. First we need to generate calmatrix.txt and caldel.txt where are respectively the calibration matrix and distortion respectively.
-These are can be generated using Tiziano Fiorenzani's tutorial, you can ignore the section about setting the raspberry pi.
+These are can be generated using [Tiziano Fiorenzani's tutorial](https://www.youtube.com/watch?v=QV1a1G4lL3U), you can ignore the section about setting the raspberry pi.
 
 2. Next you will need to print the aruco markers ([1] and [2]) included in this code base
 
