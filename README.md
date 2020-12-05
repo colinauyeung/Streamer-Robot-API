@@ -70,7 +70,7 @@ Within this code base there are two vision scripts avaliable, we'll will set up 
 1. First we need to generate calmatrix.txt and caldel.txt where are respectively the calibration matrix and distortion respectively.
 These are can be generated using Tiziano Fiorenzani's tutorial, you can ignore the section about setting the raspberry pi.
 
-2. Next you will need to print the aruco markers included in this code base
+2. Next you will need to print the aruco markers ([1] and [2]) included in this code base
 
 3. Next you will need to replace [controller.jpg](../main/controller.jpg) with a similar image of your PS4 controller. This works best
 when the picture is in similar lightning conditions as you will be using it in and a bright and unusual color is set for the light
@@ -186,3 +186,6 @@ https://gist.github.com/claymcleod/028386b860b75e4f5472
 For Python threading:
 
 https://blog.miguelgrinberg.com/post/how-to-make-python-wait
+
+[1]: ../main/aruco-makers/aruco-130.svg
+[2]: ../main/aruco-makers/aruco-140.svg
